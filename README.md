@@ -1,7 +1,7 @@
 # Hi, I'm Bunal Leang 👋
 
 <p align="left">
-  <strong>Software Engineer | AI Engineer | Data Science Student</strong><br/>
+  <strong>Software Engineer | AI Engineer | Master Data Science Student</strong><br/>
   Building AI Products, Web Applications, Automation Systems, and Open Source Projects.
 </p>
 
